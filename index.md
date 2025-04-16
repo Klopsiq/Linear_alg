@@ -1,3 +1,3 @@
 # Добро пожаловать!
 
-[Доказательство принадлежности ортогонального дополнения](Orthogonal_Complement_Proof.markdown)
+[Доказательство принадлежности ортогонального дополнения](Orthogonal Complement Proof.markdown)
